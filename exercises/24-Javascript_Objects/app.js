@@ -32,6 +32,18 @@ function addAllFamilyLuckyNumbers(anArray){
 }
 
 //Enter all your code here:
+person.lucky_numbers[3]=33;
+  
+var person3 = {
+    name: "Jimmy",
+    lastname: "Doe",
+    age: 13,
+    gender: "male",
+    lucky_numbers: [ 1, 2, 3, 4],
+    significant_other: null
+};
+
+family.members.push(person3);
 
 
 //Do not make changes below:
